@@ -1,7 +1,7 @@
 # rest_todolist
 
 
-## folder structure explanation
+# folder structure explanation
 - `rest_todolist` is the root folder of the project
     - `lib` where the core of the project stands
         - `main.dart` is the entry point of the project
@@ -18,6 +18,18 @@
             - `todo_actions.dart` the todo actions list
             - `todo_card.dart` todo card container
            
+
+
+# screen shots
+
+<img src="https://github.com/elMeniwy/flutter_rest_todolist/blob/main/project_screenshots/1.png">
+
+<img src="https://github.com/elMeniwy/flutter_rest_todolist/blob/main/project_screenshots/2.png">
+
+<img src="https://github.com/elMeniwy/flutter_rest_todolist/blob/main/project_screenshots/3.png">
+
+<img src="https://github.com/elMeniwy/flutter_rest_todolist/blob/main/project_screenshots/4.png">
+
 
 
 
